@@ -1,18 +1,54 @@
-# React + Vite
+# Game Landing Hub
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+An animated gaming brand landing page built with React and GSAP, featuring cinematic hero videos, scroll-triggered animations, and player login/signup pages.
 
-Currently, two official plugins are available:
+**🔗 Live Demo:** [game-landing-hub.vercel.app](https://game-landing-hub.vercel.app)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features
 
-## React Compiler
+- 🎬 Cinematic hero section with autoplaying video transitions
+- ✨ Smooth scroll-triggered animations powered by GSAP
+- 🎮 Feature showcase section highlighting game elements
+- 🔐 Player Login and Signup pages with form validation (React Hook Form)
+- 📱 Fully responsive layout styled with Tailwind CSS
+- 🧭 Client-side routing with React Router
 
-The React Compiler is enabled on this template. See [this documentation](https://react.dev/learn/react-compiler) for more information.
+## Tech Stack
 
-Note: This will impact Vite dev & build performances.
+**Frontend:** React.js, Vite
+**Animation:** GSAP, @gsap/react
+**Styling:** Tailwind CSS
+**Forms & Routing:** React Hook Form, React Router
+**Deployment:** Vercel
 
-## Expanding the ESLint configuration
+## Pages
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- `/login` — Player login screen
+- `/signup` — Player signup screen
+- `/home` — Main landing experience (hero, features, story, gallery, contact)
+
+## Getting Started (Local Setup)
+
+### Prerequisites
+- Node.js (v18+)
+<!-- 
+### Installation
+```bash
+git clone https://github.com/arora-tarun/game-landing-hub.git
+cd game-landing-hub
+npm install
+npm run dev
+```
+
+Visit `http://localhost:5173` to view it locally.
+
+### Build for production
+```bash
+npm run build
+npm run preview
+``` -->
+
+## Author
+
+**Tarun Arora**
+[LinkedIn](https://www.linkedin.com/in/tarun--arora/) · [GitHub](https://github.com/arora-tarun)
