@@ -4,6 +4,16 @@ An animated gaming brand landing page built with React and GSAP, featuring cinem
 
 **🔗 Live Demo:** [game-landing-hub.vercel.app](https://game-landing-hub.vercel.app)
 
+## What This Site Offers
+
+- **Hero Experience** — Full-screen looping video intro with animated title reveal, setting the tone for the game's brand
+- **About Section** — Introduces the game's world and concept with scroll-triggered visuals
+- **Features Showcase** — Highlights core gameplay features through short video clips and animated cards
+- **Story Section** — Narrative-driven storytelling section with character art and immersive visuals
+- **Gallery** — Curated image gallery showing in-game environments and characters
+- **Contact Section** — Community/contact call-to-action for players
+- **Player Login & Signup** — Dedicated authentication pages for a "player account" experience, with form validation
+
 ## Features
 
 - 🎬 Cinematic hero section with autoplaying video transitions
@@ -31,22 +41,7 @@ An animated gaming brand landing page built with React and GSAP, featuring cinem
 
 ### Prerequisites
 - Node.js (v18+)
-<!-- 
-### Installation
-```bash
-git clone https://github.com/arora-tarun/game-landing-hub.git
-cd game-landing-hub
-npm install
-npm run dev
-```
 
-Visit `http://localhost:5173` to view it locally.
-
-### Build for production
-```bash
-npm run build
-npm run preview
-``` -->
 
 ## Author
 
